@@ -11,7 +11,7 @@ The analysis includes:
 
 - Risk contribution decomposition (Euler framework)
 
-= Historical and parametric VaR and CVaR comparison
+- Historical and parametric VaR and CVaR comparison
 
 - Benchmark comparison against equal-weight allocation
 
